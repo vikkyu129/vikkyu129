@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some interesting SPAs.
+- 🌱 I’m currently learning DSA.
+- 💬 Ask me about How I'm trying myself to get hooked to Leetcode.
+
+
+
 <!--
 **vikkyu129/vikkyu129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
